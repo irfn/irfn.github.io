@@ -1,2 +1,2 @@
 ### irfn
-* [Example] (/example/)
+[Example] (/example/)
